@@ -1,0 +1,11 @@
+[project]
+name = "nursinghomesmockdata"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.12",
+    "numpy>=2.2.5",
+    "uvicorn>=0.34.2",
+    "whenever>=0.7.3",
+]
