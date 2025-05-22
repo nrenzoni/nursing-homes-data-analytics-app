@@ -2,6 +2,7 @@
 
 A modular system for generating, syncing, analyzing, and visualizing synthetic nursing home data using REST APIs, DLT pipelines, LLM agents, and a Streamlit UI.
 
+[Loom Video Link](https://www.loom.com/share/6c50ad0d167f41e3a2ee574ed2ae9619?sid=953ffa8f-29f0-4dab-9d9c-bf25e106dec8)
 
 ![System Architecture](assets/architecture-diagram.png)
 
